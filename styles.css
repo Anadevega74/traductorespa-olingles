@@ -1,0 +1,10 @@
+import 
+
+@font-face {
+    font-family: "Cabin sketch";
+    src: url("./fonts/CabinSketch-Regular.ttf") format("truetype");
+  }
+
+body {
+    background-color: rgb(183, 242, 242);
+}
