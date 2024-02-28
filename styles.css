@@ -15,10 +15,15 @@ body {
 } 
 
 body {
-    background-image: url(./img/fondoteclados.jpg);
+    background-image: url(./img/fondohello.jpg);
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
     position: relative;
+}
+
+button {
+    font-family: "Verdana";
+
 }
 
