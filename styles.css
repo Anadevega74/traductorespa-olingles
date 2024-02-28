@@ -21,6 +21,27 @@ body {
     min-height: 100vh;
 }
 
+button {
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: rgb(101, 195, 227); 
+    color:blue;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: pink;
+    cursor: pointer;
+}
+button:active {
+    transform: scale(0.9);
+    transition: transform 0.2s;
+}
+
+
+
 
 
 
