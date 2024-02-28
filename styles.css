@@ -1,12 +1,10 @@
-import 
-
 @font-face {
-    font-family: "Cabin sketch";
-    src: url("./fonts/CabinSketch-Regular.ttf") format("truetype");
+    font-family: "Verdana";
+    src: url("./fonts/Verdana") format("truetype");
   }
 
 body {
-    background-color: rgb(183, 242, 242);
+    background-color: none;
     font-size: 20px;
     text-align: center;
     font-family: "Verdana";
@@ -20,10 +18,11 @@ body {
     background-position: top center;
     background-repeat: no-repeat;
     position: relative;
+    min-height: 100vh;
 }
 
-button {
-    font-family: "Verdana";
 
-}
+
+
+
 
